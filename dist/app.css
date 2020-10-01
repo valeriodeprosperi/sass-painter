@@ -32,3 +32,30 @@ header .nav-bar-top li i {
   padding-right: 5px;
 }
 
+.nav-bar-bottom {
+  display: flex;
+  list-style: none;
+  justify-content: flex-start;
+}
+
+.nav-bar-bottom img {
+  max-width: 100px;
+  padding: 10px 10px;
+}
+
+.nav-bottom-info {
+  display: flex;
+  align-items: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.nav-bottom-info i {
+  color: #739479;
+  font-size: 15px;
+  padding-left: 5px;
+}
+
