@@ -26,3 +26,9 @@ header .nav-bar-top li a {
   font-size: 15px;
 }
 
+header .nav-bar-top li i {
+  color: #029CFF;
+  font-size: 15px;
+  padding-right: 5px;
+}
+
