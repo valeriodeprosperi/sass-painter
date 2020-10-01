@@ -35,7 +35,7 @@ header .nav-bar-top li i {
 .nav-bar-bottom {
   display: flex;
   list-style: none;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .nav-bar-bottom img {
@@ -50,7 +50,7 @@ header .nav-bar-top li i {
   text-decoration: none;
   color: #fff;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 600;
 }
 
 .nav-bottom-info i {

@@ -32,7 +32,7 @@ header{
 .nav-bar-bottom{
  display: flex;
  list-style: none;
- justify-content: flex-start;
+ justify-content: center;
 
  & img{
       max-width: 100px;
@@ -46,7 +46,7 @@ header{
   text-decoration: none;
   color: #fff;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 600;
 
   i{
     color: #739479;
